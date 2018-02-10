@@ -42,8 +42,8 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Ryan Moniz ',
-  // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
-  // projectName: 'test-site', // or set an env variable PROJECT_NAME
+  organizationName: 'ryanmoniz', // or set an env variable ORGANIZATION_NAME
+  projectName: 'blogusarus', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
